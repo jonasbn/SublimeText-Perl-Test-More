@@ -1,6 +1,8 @@
 SublimeText-Perl-Test-More
 ==========================
 
+# Introduction
+
 This package provides snippets for Perl's [Test::More](https://metacpan.org/pod/Test::More) for [Sublime Text 2](http://www.sublimetext.com/2)
 
 It is currently offering the following snippets:
@@ -17,6 +19,23 @@ like
 ok
 unlike
 ```
+
+So you simply write the Test::More routine you want and press the tab key
+
+An example:
+
+```perl
+ok<tab>
+```
+
+expands to:
+
+```perl
+ok($got eq $expected, 'test_name');
+```
+
+1. tabbing again lets you write the assertion
+2. tabbing yet again lets you label the test
 
 # Installation
 
