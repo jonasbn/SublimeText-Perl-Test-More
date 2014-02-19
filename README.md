@@ -1,11 +1,11 @@
 SublimeText-Perl-Test-More
 ==========================
 
-# Introduction
-
 This package provides snippets for Perl's [Test::More](https://metacpan.org/pod/Test::More) for [Sublime Text 2](http://www.sublimetext.com/2)
 
-It is currently offering the following snippets:
+# Introduction
+
+The package is currently offering the following snippets:
 
 ```perl
 BAIL_OUT
@@ -36,6 +36,9 @@ ok($got eq $expected, 'test_name');
 
 1. tabbing again lets you write the assertion
 2. tabbing yet again lets you label the test
+3. And you can run your test suite
+
+This package can with luck be used with the (package)[https://github.com/jonasbn/SublimeText-Perl-Test-Class] for Perl's Test::Class for Sublime Text 2.
 
 # Installation
 
