@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[unlike(${1:\$got}, qr/${2:expected}/, '${3:test_name}');
+]]></content>
+    <tabTrigger>unlike</tabTrigger>
+    <scope>source.perl</scope>
+    <description>Test::More::unlike</description>
+</snippet>

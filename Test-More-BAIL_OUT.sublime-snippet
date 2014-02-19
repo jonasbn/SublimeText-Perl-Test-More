@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[BAIL_OUT(${1:\$why});]]></content>
+    <tabTrigger>BAIL_OUT</tabTrigger>
+    <scope>source.perl</scope>
+    <description>Test::More::BAIL_OUT</description>
+</snippet>

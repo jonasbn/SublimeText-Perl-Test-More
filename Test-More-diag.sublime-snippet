@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[diag("${1:\$diagnosis}");
+]]></content>
+    <tabTrigger>diag</tabTrigger>
+    <scope>source.perl</scope>
+    <description>Test::More::diag</description>
+</snippet>

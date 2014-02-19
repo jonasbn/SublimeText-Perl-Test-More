@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[can_ok(${1:\$module}, ${2:@methods});
+]]></content>
+    <tabTrigger>can_ok</tabTrigger>
+    <scope>source.perl</scope>
+    <description>Test::More::can_ok</description>
+</snippet>

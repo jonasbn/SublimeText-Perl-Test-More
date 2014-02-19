@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[isnt(${1:\$got}, ${2:\$expected}, '${3:test_name}');
+]]></content>
+    <tabTrigger>isnt</tabTrigger>
+    <scope>source.perl</scope>
+    <description>Test::More::isnt</description>
+</snippet>

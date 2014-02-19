@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[cmp_ok(${1:\$got}, '${2:comparison_operator}', ${3:\$expected}, '${4:test_name}');
+]]></content>
+    <tabTrigger>cmp_ok</tabTrigger>
+    <scope>source.perl</scope>
+    <description>Test::More::cmp_ok</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[is(${1:\$got}, ${2:\$expected}, '${3:test_name}');
+]]></content>
+    <tabTrigger>is</tabTrigger>
+    <scope>source.perl</scope>
+    <description>Test::More::is</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[like(${1:\$got}, qr/${2:expected}/, '${3:test_name}');
+]]></content>
+    <tabTrigger>like</tabTrigger>
+    <scope>source.perl</scope>
+    <description>Test::More::like</description>
+</snippet>

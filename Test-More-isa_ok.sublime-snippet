@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[isa_ok(${1:\$object}, ${2:\$class});
+]]></content>
+    <tabTrigger>isa_ok</tabTrigger>
+    <scope>source.perl</scope>
+    <description>Test::More::isa_ok</description>
+</snippet>
