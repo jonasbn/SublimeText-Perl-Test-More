@@ -1,7 +1,7 @@
 SublimeText-Perl-Test-More
 ==========================
 
-This package provides snippets for Perl's [Test::More](https://metacpan.org/pod/Test::More) for [Sublime Text 2](http://www.sublimetext.com/2)
+This package provides snippets for Perl's [Test::More](https://metacpan.org/pod/Test::More) for [Sublime Text 2/3](http://www.sublimetext.com/)
 
 # Introduction and Usage
 
