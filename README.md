@@ -57,7 +57,7 @@ Several options are available for installation.
 
 Clone the repository in your Sublime Text Packages directory.
 
-```git clone https://github.com/jonasbn/perl-Sublime-Test-More Test-More```
+```git clone https://github.com/jonasbn/perl-Sublime-Test-More```
 
 The advantage of using either Package Control or git is, that the plugin will be automatically kept _up-to-date_.
 
