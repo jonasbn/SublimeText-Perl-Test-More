@@ -36,7 +36,7 @@ ok($got eq $expected, 'test_name');
 
 1. tabbing again lets you write the assertion
 2. tabbing yet again lets you label the test
-3. And you can run your test suite
+3. And then you can run your test suite
 
 This package can with luck be used with the [package](https://github.com/jonasbn/SublimeText-Perl-Test-Class) for Perl's Test::Class for Sublime Text 2.
 
