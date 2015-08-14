@@ -20,7 +20,7 @@ ok
 unlike
 ```
 
-So you simply write the Test::More routine you want and press the tab key
+So you simply write the [Test::More](https://metacpan.org/pod/Test::More) routine you want and press the tab key
 
 An example:
 
@@ -38,7 +38,7 @@ ok($got eq $expected, 'test_name');
 2. tabbing yet again lets you label the test
 3. And then you can run your test suite
 
-This package can with luck be used with the [package](https://github.com/jonasbn/SublimeText-Perl-Test-Class) for Perl's Test::Class for Sublime Text 2.
+This package can with luck be used with the [package](https://github.com/jonasbn/SublimeText-Perl-Test-Class) for Perl's [Test::Class](https://metacpan.org/pod/Test::Class) for Sublime Text 2/3.
 
 # Installation
 
@@ -63,8 +63,19 @@ The advantage of using either Package Control or git is, that the plugin will be
 
 ## From ZIP
 
+### Sublime Text 3
+
 1. [Download](https://github.com/jonasbn/SublimeText-Perl-Test-More/archive/master.zip) the zip file
-2. Unpack it in your Sublime Text directory, as per OS
+2. Unpack it in your Sublime Text directory, as per OS and Sublime Text 
+  - OS X    ~/Library/Application Support/Sublime Text 3/Packages/
+  - Linux   ~/.config/sublime-text-3/Packages/
+  - Windows %APPDATA%\Sublime Text 3\Packages\
+3. Start using it! (see section above)
+
+### Sublime Text 2
+
+1. [Download](https://github.com/jonasbn/SublimeText-Perl-Test-More/archive/master.zip) the zip file
+2. Unpack it in your Sublime Text directory, as per OS and Sublime Text 
   - OS X    ~/Library/Application Support/Sublime Text 2/Packages/
   - Linux   ~/.config/sublime-text-2/Packages/
   - Windows %APPDATA%\Sublime Text 2\Packages\
@@ -76,7 +87,7 @@ Please report any issues via [github](https://github.com/jonasbn/SublimeText-Per
 
 # Motivation
 
-I write a lot of test code across projects/distributions and since Test::More is put to such wide use it is nice to be able to write tests fast and consistenly.
+I write a lot of test code across projects/distributions and since [Test::More](https://metacpan.org/pod/Test::More) is put to such wide use it is nice to be able to write tests fast and consistenly.
 
 # License
 
