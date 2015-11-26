@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[is_deeply(${1:\$got_complex_structure}, ${2:\$expected_complex_structure}, '${3:test_name}');
+]]></content>
+
+    <tabTrigger>is_deeply</tabTrigger>
+    <scope>source.perl</scope>
+    <description>Test::More::is_deeply</description>
+</snippet>

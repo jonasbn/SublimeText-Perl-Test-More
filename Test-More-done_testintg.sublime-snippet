@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[done_testing();
+]]></content>
+    <tabTrigger>done_testing</tabTrigger>
+    <scope>source.perl</scope>
+    <description>Test::More::done_testing</description>
+</snippet>
