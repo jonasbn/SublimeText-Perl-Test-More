@@ -18,6 +18,8 @@ isnt
 like
 ok
 unlike
+is_deeply
+done_testing
 ```
 
 So you simply write the [Test::More](https://metacpan.org/pod/Test::More) routine you want and press the tab key
@@ -88,6 +90,20 @@ Please report any issues via [github](https://github.com/jonasbn/SublimeText-Per
 # Motivation
 
 I write a lot of test code across projects/distributions and since [Test::More](https://metacpan.org/pod/Test::More) is put to such wide use it is nice to be able to write tests fast and consistenly.
+
+# Acknowledgements
+
+- Daniel Salgado Población contributed `is_deeply` and `done_testing`, resulting in version 1.1.0
+
+# History
+
+## 2015-11-27 1.1.0
+
+- `is_deeply` and `done_testing` added
+
+## 2014-03-08 1.0.0
+
+- Initial version
 
 # License
 
