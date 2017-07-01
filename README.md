@@ -1,6 +1,8 @@
 SublimeText-Perl-Test-More
 ==========================
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 This package provides snippets for Perl's [Test::More](https://metacpan.org/pod/Test::More) for [Sublime Text 2/3](http://www.sublimetext.com/)
 
 # Introduction and Usage
